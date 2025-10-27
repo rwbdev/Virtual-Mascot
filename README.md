@@ -1,2 +1,2 @@
-# rwb-plugin
+# Virtual Mascot
 WordPress plugin by RWB, free to download with optional donation.
